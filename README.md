@@ -2,7 +2,7 @@
     <p>	
 	    <a href="(https://www.morphl2.io/)">	
             <div>	
-	            <img src="(https://file.notion.so/f/f/fcab2c10-8da9-4414-aa63-4998ddf62e78/e825cce2-6c03-44e0-bb15-c0500fc9c284/Morph.logo_Horizontal_Green.png?id=85cdc999-d6e6-4743-b652-ff56442fbdf3&table=block&spaceId=fcab2c10-8da9-4414-aa63-4998ddf62e78&expirationTimestamp=1719892800000&signature=6pREdjXZKOytr1QS3_KLPjkenMDe2sJDbrmStmfRqHw&downloadName=Morph.logo_Horizontal_Green.png)" width="180"  alt="Morph">	
+	              <img width="200px" src="https://morphl2brand.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffcab2c10-8da9-4414-aa63-4998ddf62e78%2F76b87f21-9863-4533-932c-91c593cc741c%2FLogo_Morph_white.jpg?table=block&id=00854626-61f3-4668-8ab1-cb8f3ec0dcb0&spaceId=fcab2c10-8da9-4414-aa63-4998ddf62e78&width=2000&userId=&cache=v2" align="center" alt="Morph" />	
 		    </div>	
             <br>
 			    <b> Morph's developer resources in one single place. </b>	
