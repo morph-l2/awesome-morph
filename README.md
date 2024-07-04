@@ -22,7 +22,7 @@ A curated collection of templates, starter kits, boilerplates, docs, guides and 
 <h3>Table of Contents</h3>
 
 - [About Morph](#about-morph)
-- [Morph optimistic zk-evm and modular structure](#morph-optimistic-zkevm-and-modular-structure)
+- [Morph optimistic zk-evm and modular design](#morph-optimistic-zkevm-and-modular-structure)
 - [Building on Morph](#building-on-morph)
 - [Developer Resources](#developer-resources)
 - [Articles and Tutorials](#articles-and-tutorials)
@@ -37,7 +37,7 @@ A curated collection of templates, starter kits, boilerplates, docs, guides and 
 - [Mission and Vision](https://docs.morphl2.io/docs/about-morph/morphs-vision-and-mission)
 - [Wallet Setup](https://docs.morphl2.io/docs/quick-start/wallet-setup)
 
-## Morph Optimistic ZKEvm and Modular structure
+## Morph Optimistic zkEVM and Modular Design
 - [Morph decentralized sequencer netwrok](https://morph.ghost.io/introduction-to-decentralized-sequencer-network/)
 - [Morph modular blockchain](https://morph.ghost.io/introduction-to-modular/)
 - [Responsive Validity Proof & Optimistic ZK-Rollup](https://morph.ghost.io/responsive-validity-proof-optimistic-zk-rollup/)
