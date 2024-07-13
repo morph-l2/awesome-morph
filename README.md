@@ -43,6 +43,7 @@ A curated collection of templates, starter kits, boilerplates, docs, guides and 
 - [Responsive Validity Proof & Optimistic ZK-Rollup](https://morph.ghost.io/responsive-validity-proof-optimistic-zk-rollup/)
 
 ## Building on Morph
+- [Faucet](https://morph-token-faucet.vercel.app/)
 - [Development setup](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
 - [Deploy contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
 - [Verify contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
