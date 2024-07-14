@@ -12,10 +12,9 @@
 
  <h1 align="center"> Awesome Morph 🐨 </h1>
 
-A curated collection of templates, starter kits, boilerplates, docs, guides and everything related with the development on Morph to get started. 
+A curated collection of templates, starter kits, boilerplates, docs, guides and everything related with the development on Morph to get started.
 
 <br>
-
 
 <!-- CONTENTS -->
 
@@ -28,40 +27,41 @@ A curated collection of templates, starter kits, boilerplates, docs, guides and 
 - [Articles and Tutorials](#articles-and-tutorials)
 - [Videos](#videos)
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About Morph
+
 - [What is Morph?](https://docs.morphl2.io/docs/about-morph/user-navigation-page/)
 - [Morph Architecture](https://docs.morphl2.io/docs/about-morph/morphs-architecture)
 - [Mission and Vision](https://docs.morphl2.io/docs/about-morph/morphs-vision-and-mission)
 - [Wallet Setup](https://docs.morphl2.io/docs/quick-start/wallet-setup)
 
-## Morph Optimistic zkEVM and Modular Design
+
+## Morph Optimistic ZKEvm and Modular structure
+
 - [Morph decentralized sequencer netwrok](https://morph.ghost.io/introduction-to-decentralized-sequencer-network/)
 - [Morph modular blockchain](https://morph.ghost.io/introduction-to-modular/)
 - [Responsive Validity Proof & Optimistic ZK-Rollup](https://morph.ghost.io/responsive-validity-proof-optimistic-zk-rollup/)
 
 ## Building on Morph
-- [Faucet](https://morph-token-faucet.vercel.app/)
-- [Development setup](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
-- [Deploy contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
-- [Verify contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
 
+- [Development setup](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/development-setup)
+- [Deploy contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/code-examples/deploy-contract-on-morph)
+- [Verify contracts on Morph](https://docs.morphl2.io/docs/build-on-morph/build-on-morph/verify-your-smart-contracts)
 
 ## Developer Resources
-- [Morph starter kit](https://docs.morphl2.io/docs/quick-start/wallet-setup)
+
+- [Morph templates repo](https://github.com/morph-l2/templates)
 - [Morph example repo](https://github.com/morph-l2/morph-examples?ref=morph.ghost.io)
 
-
 ## Articles and Tutorials
+
 - [Building a Decentralized hotel booking dApp on Morph](https://morph.ghost.io/developer-guide-building-a-decentralized-hotel-booking-system-on-morph-2/)
 - [Building a Fractionalized real-estate dApp on Morph](https://morph.ghost.io/developer-guide-realestate-dapp/)
 
-
 ## Videos
+
 - [Intro to Morph: Deploying your first smart contract](https://www.youtube.com/watch?v=8yAx5EU1wcE)
 - [Getting started on Morph](https://www.youtube.com/watch?v=HbXaEMwGPD4)
 - [Build a web3 Venmo dApp on Morph](https://www.youtube.com/watch?v=oH4xzSO-HvE)
 - [Introduction to decentralized sequencer network](https://www.youtube.com/watch?v=nxr0IJjhdK0)
-
