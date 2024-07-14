@@ -1,6 +1,4 @@
-## Contributing to Build Onchain Apps
-
-<p> The following is a set of guidelines for contributing to Base Web. These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request. </p>
+## Contributing to Awesome Morph
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,21 +24,21 @@
 
 ## Code of Conduct
 
-This project and everyone participating in it are governed by our [Code of Conduct](https://github.com/morph-l2/templates/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it are governed by our [Code of Conduct](https://github.com/morph-l2/awesome-morph/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## How to Contribute?
 
 ### Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/morph-l2/templates/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/morph-l2/awesome-morph/issues).
 
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/morph-l2/templates/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/morph-l2/awesome-morph/issues/new). Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
 ### Improvements
 
-- Check the [Issues](https://github.com/morph-l2/templates/issues) to see if there's someone who has already suggested the same improvement.
+- Check the [Issues](https://github.com/morph-l2/awesome-morph/issues) to see if there's someone who has already suggested the same improvement.
 
-- If it doesn't exist, [create a new issue](https://github.com/morph-l2/templates/issues/new). Provide a clear and detailed explanation of the feature you want and why it's important to add.
+- If it doesn't exist, [create a new issue](https://github.com/morph-l2/awesome-morph/issues/new). Provide a clear and detailed explanation of the feature you want and why it's important to add.
 
 ### Pull Requests
 
